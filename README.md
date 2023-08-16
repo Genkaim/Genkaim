@@ -16,6 +16,5 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="55" /></a>            <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="55" /></a>          (?
 
 ## Stats
-![Genkaim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genkaim&show_icons=true&theme=tokyonight) 
-
+![Genkaim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genkaim&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genkaim&layout=compact)](https://github.com/genkaim/github-readme-stats)
 ---------
