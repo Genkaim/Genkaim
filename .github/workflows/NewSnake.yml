@@ -1,5 +1,8 @@
 name: Snake
-
+uses: actions/setup-python@v2
+with:
+  python-version: 3.9
+  node-version: 16
 on:
   schedule:
     - cron: '0 0 * * *'
