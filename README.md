@@ -1,6 +1,6 @@
 <big>**Profile Views**</big> ![Visitor Count](https://profile-counter.glitch.me/Genkaim/count.svg)
 
-![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only) ![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/genkaim/genkaim/output/github-contribution-grid-snake.svg#gh-light-mode-only) ![GitHub Snake Dark](https://raw.githubusercontent.com/genkiam/genkaim/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ### About Me  
 [HOW sleep ?](https://www.genkaim.top)
