@@ -1,0 +1,30 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install Pillow
+      - name: Run script
+        run: |
+          python .github/workflows/snake.py
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'L1cardo'
+          git config --global user.email 'albert.abdilim@gmail.com'
+          git add .
+          git commit -m "Update snake"
+          git push
