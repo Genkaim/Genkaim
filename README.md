@@ -5,7 +5,7 @@
 
 
 ## About
-[HOW sleep](https://genkaim.github.io)
+[HOW sleep](https://genkaim.github.io/about)
 
 
 
